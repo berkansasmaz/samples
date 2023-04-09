@@ -11,4 +11,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MiniExcel" Version="1.30.2" />
+  </ItemGroup>
 </Project>
